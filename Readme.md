@@ -27,4 +27,5 @@ Mavidurak-IO ne için var, ne yapmak istiyor ve nasıl yapmak istiyor soruların
 * [gormelof](https://github.com/gormelof)
 * [onuraltunsoy](https://github.com/onuraltunsoy)
 * [ozziest](https://github.com/ozziest)
+* [co3moz] (https://github.com/co3moz)
 
