@@ -19,7 +19,7 @@ Mavidurak-IO ne için var, ne yapmak istiyor ve nasıl yapmak istiyor soruların
 * Yazılım Standartları ve SOLID
 * Dökümantasyon
 * Versiyonlama 
-* Standartlaş Oluşturma
+* Standartlar Oluşturma
 
 ### Ameleler
 
