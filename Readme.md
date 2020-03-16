@@ -38,6 +38,8 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 - Aktif üyeler topluluk kararlarında oy hakkında sahiptirler.
 - Toplantılara mazeretsiz devam etmeyen katılımcıların aktif üyelikleri düşer.
 - Deklerasyona yapılacak öneriler hakkında oy hakkı sadece topluluk aktif üyelerine aittir.
+- Toplantılara ve etkinliklere katılan (min. 3 ay boyunca) tüm üyeler dönem başında başkanlığa aday olabilirler.
+- Mentör olmak isteyen üyeler toplulukta aktif (min. 1 ay boyunca) olmalı ve topluluk kurucularının mülakatından geçmeleri gerekir.
 
 ## Yönetim
 
