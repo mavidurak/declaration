@@ -92,10 +92,10 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
   + Kendi bilgi ve becerilerini kullanarak öğrencilere yol göstermek.
   + Mentorlük öğrencileri tarafından üretilen proje konusunda danışmanlık yapmak.
   + Öğrecilerin tecrübelerini göz önünde bulundurarak ödevler vermek.
-  + Haftalık mentorlük destek toplantılarına katılmak.
+  + Haftalık mentorlük toplantılarına katılmak.
 
 - ### Mentorlük Öğrencisi 
-  + Haftalık mentorlük destek toplantılarına katılmak.
+  + Haftalık mentorlük toplantılarına katılmak.
   + Eğitmenin verdiği görevleri istenilen şekilde gerçekleştirmek.
 ## Davranış Kuralları
 
