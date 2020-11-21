@@ -60,6 +60,7 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 - Karar alınabilmesi için mutlak çoğunluğun sağlanması gerekmektedir.Mutlak çoğunluk sağlanamazsa aynı oylama konu tartışılıp tekrardan yapılabilir, hep birlikte tarih belirleyerek sonraki bir haftalık toplantıda tekrardan oylama yapılması istenebilir veya Yürütme Kurulunun karar alması istebilir.
 - İvedilikle alınması gereken bir kararda topluluk işleyişinin ve çıkarının korunması amacıyla Yürütme kurulu yukarıda bahsedilen oylama kuralları doğrultusunda karar alabilir.Alınan kararı en geç ilk haftalık toplantıda içinde bulunulan durum ve kararın alınma nedeninin anlaşılır bir şekilde topluluğa açıklaması gerekmektedir.
 - Görevlendirme yapılırken gönüllülük ve liyakat esastır.
+- Genellikle dönemin ilk haftalık toplantısında topluluk içinde görev değişimi yapmak için tüm görevler, bunların sorumlulukları ve oluşturduğu iş yükü hakkında konuşulur sonrasında varsa sorular cevaplanır ve görevli seçimi yapılır.    
 - Topluluk Başkanı seçimi yeni başkanın yol haritaları oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz dönemi sonunda gizli oylama açık sayım yöntemi ile yapılır.
 - Kesin seçim tarihi en geç seçimden 1(bir) hafta önce duyrulmak zorundadır.
 - Başkan adayları seçim toplantısında kendilerini tanıtmalı ve olası başkanlıkları ile ilgili sözlü bir açıklama yapmalıdır.
@@ -67,9 +68,10 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 
 ## Görevler ve Sorumlulukları
 - ### Topluluk Başkanı
-  + Topluluk işleyişinin, kurallarının ve çıkarlarının korunmasını sağlamak.
+  + Topluluk işleyişinin, devamlılığının, kurallarının ve çıkarlarının korunmasını sağlamak.
   + Üyelerin bir araya gelebilecekleri ve tecrübe paylaşımı yapabilecekleri seminer, haftalık toplantı vb. etkinliklerin düzenlenmesini sağlamak.
-  + Etkinliklerin yönetimini, organizasyonunu ve duyurulmasını yönetmek. 
+  + Etkinliklerin yönetimini, organizasyonunu ve duyurulmasını yönetmek.
+  + Yapılan her yönetimsel iş için topluluğu bildirmek. 
 
 - ### Topluluk Başkan Yardımcısı
   + Topluluk başkanının mazeretli olduğu anlarda toplantı yada etkinlikleri yönetmek yahut organize etmek.
