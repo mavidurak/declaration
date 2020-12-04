@@ -66,13 +66,13 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 ## Karar alma ve Görevli Seçimi
 
 - Topluluk işleyişine dair tüm kararlar haftalık toplantılarda oylama yapılarak belirlenir.
-- Haftalık toplantıda oylamadan önce gerekli tüm görsel, yazılı veya sesli içerik toplulukla paylaşılır.Paylaşılan verilere gere herkesin katılabileceği ve davranış kurallarına uygun bir şekilde fikir alışverişi yapılır.
+- Haftalık toplantıda oylamadan önce gerekli tüm görsel, yazılı veya sesli içerik toplulukla paylaşılır.Paylaşılan verilere göre herkesin katılabileceği ve davranış kurallarına uygun bir şekilde fikir alışverişi yapılır.
 - Oylama açık bir şekilde yapılır.
-- Karar alınabilmesi için mutlak çoğunluğun sağlanması gerekmektedir.Mutlak çoğunluk sağlanamazsa aynı oylama konu tartışılıp tekrardan yapılabilir, hep birlikte tarih belirleyerek sonraki bir haftalık toplantıda tekrardan oylama yapılması istenebilir veya Yürütme Kurulunun karar alması istebilir.
-- İvedilikle alınması gereken bir kararda topluluk işleyişinin ve çıkarının korunması amacıyla Yürütme kurulu yukarıda bahsedilen oylama kuralları doğrultusunda karar alabilir.Alınan kararı en geç ilk haftalık toplantıda içinde bulunulan durum ve kararın alınma nedeninin anlaşılır bir şekilde topluluğa açıklaması gerekmektedir.
+- Karar alınabilmesi için mutlak çoğunluğun sağlanması gerekmektedir.Mutlak çoğunluk sağlanamazsa aynı oylama konu tartışılıp tekrardan yapılabilir, hep birlikte tarih belirleyerek sonraki bir haftalık toplantıda tekrardan oylama yapılması kararlaştırılabilir veya Yürütme Kurulunun karar alması istenebilir.
+- İvedilikle alınması gereken bir kararda topluluk işleyişinin ve çıkarının korunması amacıyla Yürütme kurulu bahsedilen oylama kuralları doğrultusunda karar alır.Alınan kararı en geç ilk haftalık toplantıda içinde bulunulan durum ve kararın alınma nedeninin anlaşılır bir şekilde topluluğa açıklaması gerekmektedir.
 - Görevlendirme yapılırken gönüllülük ve liyakat esastır.
 - Genellikle dönemin ilk haftalık toplantısında topluluk içinde görev değişimi yapmak için tüm görevler, bunların sorumlulukları ve oluşturduğu iş yükü hakkında konuşulur sonrasında varsa sorular cevaplanır ve görevli seçimi yapılır.    
-- Topluluk Başkanı seçimi yeni başkanın yol haritaları oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz dönemi sonunda gizli oylama açık sayım yöntemi ile yapılır.
+- Topluluk Başkanı seçimi yeni başkanın yol haritası oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz dönemi sonunda gizli oylama açık sayım yöntemi ile yapılır.
 - Kesin seçim tarihi en geç seçimden 1(bir) hafta önce duyrulmak zorundadır.
 
 - Başkan adayları seçim toplantısında kendilerini tanıtmalı ve olası başkanlıkları ile ilgili sözlü bir açıklama yapmalıdır.
@@ -89,7 +89,9 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 
   + Haftalık toplantıda alınan veya alınamayan kararları topluluğa duyurmak.
 
-  + Yapılan her yönetimsel iş için topluluğu bilgilendirmek. 
+  + Yapılan her yönetimsel iş için topluluğu bilgilendirmek.
+  
+  + Topluluk, görevliler, eğitmenler, öğrenciler arasında gerekli iletişimin kurulması ve yönetilmesi.
 
 - ### Topluluk Başkan Yardımcısı
   + Topluluk başkanının mazeretli olduğu anlarda toplantı yada etkinlikleri yönetmek yahut organize etmek.
@@ -99,14 +101,14 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 - ### Yürütme Kurulu Üyesi
   + Acil durumlarda ivedilikle topluluk kuralları doğrultusunda karar almak.
 
-  + İstek doğrultusunda haftalık toplantıda alınamayan bir kararı almak. 
+  + İstek doğrultusunda haftalık toplantıda alınamayan bir kararı almak.
 
 - ### Sosyal Medya Sorumlusu
   + Sosyal medyada yapılan etkinliklerin duyurmak.
 
   + Kullanılan platformda dahi iyi içerikler üretilmesi için fikir beyan etmek. 
 
-  + Sosyal medyadan sorulan soruları yanıtlamak veya soruları gerekli kişilere iletmek.
+  + Sosyal medya kanallarına gelen soruları yanıtlamak veya soruları gerekli kişilere iletmek.
 
 - ### Tasarım Sorumlusu
   + Afiş, sosyal medya içeriği gibi konularda istenilen doğrultuda içerik üretmek.
@@ -116,8 +118,9 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 - ### Mentor
   + Kendi bilgi ve becerilerini kullanarak öğrencilere yol göstermek.
 
-  + Mentorlük öğrencileri tarafından üretilen proje konusunda danışmanlık yapmak.
-  + Öğrecilerin tecrübelerini göz önünde bulundurarak ödevler vermek.
+  + Mentorlük öğrencileri tarafından üretilen projeye danışmanlık yapmak.
+  
+  + Öğrecilerin tecrübelerini ve bilgi birikimlerini göz önünde bulundurarak görevler vermek.
 
   + Haftalık mentorlük toplantılarına katılmak.
 
@@ -127,11 +130,11 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
   + Eğitmenin verdiği görevleri istenilen şekilde gerçekleştirmek.
 
 ## Mentorluk Sistemi
-- Mentorluk sistemi okullarda öğretilen bilgilerin canlı bir projede tecrübelenmesini ve gerçek dünya problemlerinin çözülmesini amaçlar.
+- Mentorluk sistemi teorik bilgilerin ilgi alanıları doğrultusunda tecrübe edilmesini ve gerçek dünya problemlerinin çözülmesini amaçlar.
 - Bu doğrultuda açık kaynaklı olacak şekilde klasik ve güncel teknolojileri harmanlayarak bir proje üretir.
 - Bu projenin konusu mentorler ve mentorluk öğrencileri tarafından kararlaştırılır.
 
-- Yapılan destek toplantıları ile görev verilmesi, yapılan görevlerin incelenmesi ve yenı konularda yol gösterilmesi yapılır.Bu toplantılara katılım zorunludur.
+- Yapılan destek toplantıları ile görev verilir, yapılan görevler incelenir ve öğrencilere yol gösterilir.Bu toplantılara katılım zorunludur.
 
 - Mentor ve öğrenci alımının dönem başı yapılır.
   + Mentor alımı yapılırken tecrübesi, daha önce kullandığı teknolojiler, ayırabileceği zaman gibi etmenler göz önünde bulundurulur.İsteğe göre dönem ortasında da mentor alımı yapılabilir
@@ -139,14 +142,14 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
   + Öğrenci alımı yapılırken daha önceki tecrübeleri, okudukları bölüm veya iş unvanı, ayırabilecekleri zaman, gibi etmenler göz önünde bulundurulur.
 
 - Öğrenciler sayı ve tecrübe durumlarına göre gruplandırılır.Tecrübesi yeterli bulunanlar eğer hala geliştirilen bir proje varsa ona dahil edilir yoksa yeni bir projeye başlatılır.Tecrübesi daha az bulunan grup bilgisayarın işleyişi, programlama dilleri, algoritma, internet, web teknolojileri ve benzeri konularda yol göstererek bir projede görev alabilecek seviyeye getirilir.
-- Yeni nesiller geldikçe kıdemli ana mentorluk projesi öğrencileri yeni gelen tecrübesiz öğrencilere bildiklerini aktararılar.Bu sayede öğrendiklerini öğreterek pekiştirirler ve bir eğitmen zinciri oluşturarak daimi bir sistem oluşturulur.
+- Yeni nesiller geldikçe kıdemli ana mentorluk projesi öğrencileri yeni gelen tecrübesiz öğrencilere bildiklerini aktararılar.Bu sayede öğrendiklerini öğreterek pekiştirirler ve bir eğitmen zinciri oluşturarak daimi bir mentorluk sistemi oluşturulur.
 
-- Mentorluk ekibi kendi içinde topluluğun geri kalanından bağımsız fakat bu deklarasyon karşı gelmeden karar alma yetkisine sahiptir.
-  + Mentorluk etkinliklerinin tarihi, projenin başlangıç ve bitiş tarihi gibi konularda tüm ekip birlikte karar alır.
+- Mentorluk ekibi kendi içinde topluluk işleyiş ve kurallarına karşı gelmeden topluluğun geri kalanından tarih ve iç işleyiş konularında bağımsız karar alma yetkisine sahiptir.
+  + Mentorluk etkinliklerinin tarihi, projenin başlangıç ve bitiş tarihi, mentorluk işleyişi konularında tüm ekip birlikte karar alır.
 
   + Yol haritası öğrencilere de danışarak eğitmenler tarafından kararlaştırılır.
 
-  + Mazeretsiz olarak kurallara uymayan veya verilen görevleri yapmayan kişilerin eğitmenlerin kararı ile ekiple ilişiği kesilir.
+  + Mazeretsiz olarak kurallara uymayan veya verilen görevleri yapmayan kişiler eğitmenlerin kararı ile ekiple ilişiği kesilir.
 + Eğitmenler ve öğrenciler mazeretsiz bir şekilde arka arkaya en fazla 3(üç), toplamda ise en fazla 5(beş) hafta devamsızlık yapabilir.Mazeretsiz olarak bu süreyi aşan kişilerin mentorluk ile ilişkileri kesilir.
  
 Örnek olarak ilk iki devreyi mezun etmiş, dışarıdan mentor(`mentor`) bulunan, üçüncü devrenin (`3. Nesil Öğrenci`) mezun olacağı ve yeni gelen tecrübeli (`4. Nesil Öğrenci (Tecrübesi Bulunan)`) ve tecrübesiz (`4.Nesil Öğrenci (Tecrübesi Bulunmayan)`) öğrenci bulunan bir mentorluk haritası : 
@@ -165,18 +168,21 @@ Mentorluk
 - Hepimiz her zaman aynı anda aynı fikirde olamayacağımızı kabul ediyor, ancak anlaşmazlığın saygısız bir davranış için mazeret olabileceğini reddediyoruz. Hepimiz zaman zaman hayal kırıklıkları yaşayacağız, ancak hayal kırıklığının kişisel saldırılar haline gelmesine izin veremeyiz. İnsanların kendilerini rahatsız veya tehdit altında hissettikleri bir ortam, üretken veya yaratıcı bir ortam değildir.
 
 - Başkalarına karşı nazik olunmalı ve hakaret edilmemeli veya edilmesine izin verilmemeli. Taciz ve dışlayıcı davranışlar kabul edilemez. Topluluk içerisinde yasak olan davranışlar aşağıdaki gibidir ancak sadece bunlarla sınırlı değildir;
+  
   - Tehdit
 
   - Agresif davranışlar
 
   - Ayrımcı ya da dışlayıcı her türlü şaka ya da dil kullanımı
 
-  - Müstehcen ya da şiddet içeren her türlü görselin paylaşımı
+  - Müstehcen ya da şiddet içeren her türlü sözel, metinsel yada görselin paylaşımı
 
   - Kişisel hakaret, ırkçılık ya da cinsiyetçilik
 
   - Kanunen belirlenmiş yüz kızartıcı suçlar
-
+  
+  - Anayasa, iş sözleşmesi, ayınlatma yahut rıza onay metni ve benzeri anlaşmalar ile hukuken kısıtlanan davranışları gerçekleştirmek.
+  
   - Yukarıdaki davranışların herhangi birini savunmak ya da kabul etmek
 
 
@@ -184,4 +190,4 @@ Mentorluk
 
 - Farklılıkta güç bulabiliriz. Farklı insanlar, farklı konular hakkında farklı bakış açılarına sahiptir ve bu sorunları çözmek veya yeni fikirler üretmek için oldukça değerlidir. Birinin sahip olduğu bir bakış açısını anlayamamak, yanlış olduğu anlamına gelmez. Hepimizin hata yapabileceğini ve birbirimizi suçlamanın bizi hiçbir yere götürmediğini unutmayın.
 
-**Yukarıdaki davranış kurallarını kabul etmeyen veya bunlara uymayan kişilerin toplulukla tüm ilişiği kesilir.İşlenen kabahate göre resmi mecralara gerekli suç duyurusunda bulunulabilir.**
+**Topluluğa katılan herkes bu belge ile belirtilen tüm davranış ve işleyiş kurallarını kabul etmiş sayılır.Davranış veya işleyiş kurallarını kabul etmeyen, kuralların icrasında zorluk çıkaran veya bunlara uymayan kişilerin toplulukla tüm ilişiği kesilir.İşlenen kabahate göre resmi mecralara gerekli suç duyurusunda bulunulabilir.**
