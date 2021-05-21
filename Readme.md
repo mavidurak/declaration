@@ -14,7 +14,9 @@ MaviDurak-IO ismi, Sakarya Üniversitesi öğrencilerinin yoğun olarak yaşadı
 
 - Deklerasyona katkı sağlamak herkese açıktır.
 
-- Deklerasyona yapılan öneriler oylama sonucu kabul ya da red olunabilir.
+- Deklerasyona yapılan öneriler ilerleyen kısımda bahsedilen usüllerce oylanır, sonuca göre kabul ya da red edilir.
+
+- Tüm topluluk üyleri bu bildirinin uygulanmasından sorumludur.
 
 ## Faliyet Alanları
 
@@ -65,14 +67,22 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 
 ## Karar alma ve Görevli Seçimi
 
-- Topluluk işleyişine dair tüm kararlar haftalık toplantılarda oylama yapılarak belirlenir.
+- Topluluk işleyişine dair tüm kararlar haftalık toplantılarda açık oylama yapılarak belirlenir.Bu oylamaya aktif üye olan veya olmayan herkes katılabilir.Herkesin oyu ve söz hakkı eşittir.
+
 - Haftalık toplantıda oylamadan önce gerekli tüm görsel, yazılı veya sesli içerik toplulukla paylaşılır.Paylaşılan verilere göre herkesin katılabileceği ve davranış kurallarına uygun bir şekilde fikir alışverişi yapılır.
-- Oylama açık bir şekilde yapılır.
-- Karar alınabilmesi için mutlak çoğunluğun sağlanması gerekmektedir. Mutlak çoğunluk sağlanamazsa aynı oylama konu tartışılıp tekrardan yapılabilir, hep birlikte tarih belirleyerek sonraki bir haftalık toplantıda tekrardan oylama yapılması kararlaştırılabilir veya Yürütme Kurulunun karar alması istenebilir.
-- İvedilikle alınması gereken bir kararda topluluk işleyişinin ve çıkarının korunması amacıyla Yürütme kurulu bahsedilen oylama kuralları doğrultusunda karar alır. Alınan kararı en geç ilk haftalık toplantıda içinde bulunulan durum ve kararın alınma nedeninin anlaşılır bir şekilde topluluğa açıklaması gerekmektedir.
-- Görevlendirme yapılırken gönüllülük ve liyakat esastır.
-- Genellikle dönemin ilk haftalık toplantısında topluluk içinde görev değişimi yapmak için tüm görevler, bunların sorumlulukları ve oluşturduğu iş yükü hakkında konuşulur sonrasında varsa sorular cevaplanır ve görevli seçimi yapılır.    
-- Topluluk Başkanı seçimi yeni başkanın yol haritası oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz dönemi sonunda gizli oylama açık sayım yöntemi ile yapılır.
+
+- Karar alınabilmesi için mutlak çoğunluğun sağlanması gerekmektedir.Mutlak çoğunluk sağlanamazsa aynı oylama konu tartışılıp tekrardan yapılabilir, hep birlikte tarih belirleyerek sonraki bir haftalık toplantıda tekrardan oylama yapılması kararlaştırılabilir veya Yürütme Kurulunun karar alması istenebilir.
+
+- İvedilikle alınması gereken bir kararda topluluk işleyişinin ve çıkarının korunması amacıyla Yürütme kurulu bahsedilen oylama kuralları doğrultusunda karar alır.Alınan kararı en geç ilk haftalık toplantıda içinde bulunulan durum ve kararın alınma nedeninin anlaşılır bir şekilde topluluğa açıklaması gerekmektedir.
+
+- Topluluğun tüm görevlerinde liyakat ve gönüllülük şarttır.Bu şartların sağlanmadığına dair şüphe yahut kesinlik varsa görevli hakkında gerekli işlemler başlatılır.
+
+- Genellikle dönemin ilk haftalık toplantısında topluluk içinde görev değişimi yapmak için tüm görevler, bunların sorumlulukları ve oluşturduğu iş yükü hakkında konuşulur sonrasında varsa sorular cevaplanır ve görevli seçimi yapılır.
+
+- Topluluk Başkanı seçimi yeni başkanın yol haritası oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz döneminin sonunda(14. hafta) gizli oylama açık sayım yöntemi ile yapılır.
+
+- Toplulukta en az 8(sekiz) haftadır bulunan ve aktif üye olan herkes başkan adayı olabilir.
+
 - Kesin seçim tarihi en geç seçimden 1(bir) hafta önce duyrulmak zorundadır.
 
 - Başkan adayları seçim toplantısında kendilerini tanıtmalı ve olası başkanlıkları ile ilgili sözlü bir açıklama yapmalıdır.
