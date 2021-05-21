@@ -4,11 +4,11 @@
 
 MaviDurak-IO, yazılım sektörü çalışanları ve Sakarya Üniversitesi‘nde öğrenim gören öğrenciler tarafından Sakarya’da kurulmuş olan bir yazılım topluluğudur. Yazılım sektöründeki gelişmeleri yakından takip etmek, yeni bakış açıları keşfetmek, öğrendiklerimizi paylaşabilmek ve bildiklerimizi sorgulayabilmek amacıyla bir aradayız. Bu birlikteliğimizi güzel dostluklar ile pekiştirerek, bildiklerimizin üzerine koyabilmek ve daha fazlasını üretebilmek hedefini paylaşıyoruz.
 
-MaviDurak-IO ismi, Sakarya Üniversitesi öğrencilerinin yoğun olarak yaşadığı, Serdivan ilçesinin Mavi Durak bölgesinden esinlenilmiştir. Topluluk kurucuları ilk olarak Mavi Durak’ta bir araya gelmiş ve bir hayal olarak çıktıkları bu yolda MaviDurak-IO’ya hayat vermişlerdir.
+MaviDurak-IO ismi, Sakarya Üniversitesi öğrencilerinin yoğun olarak yaşadığı, Serdivan ilçesinin Mavi Durak bölgesinden esinlenerek konulmuştur. Topluluk kurucuları ilk olarak Mavi Durak’ta bir araya gelmiş ve bir hayal olarak çıktıkları bu yolda MaviDurak-IO’ya hayat vermişlerdir.
 
 ## Deklerasyon
 
-- Topluluğun ana kuralları bu deklerasyon ile belirlemektedir.
+- Topluluğun ana kuralları bu deklerasyon ile belirlenmektedir.
 
 - Bu deklerasyona yapılacak öneriler pull-request ile gönderilmelidir.
 
@@ -28,7 +28,7 @@ MaviDurak-IO bilgisayar bilimi temalı etkinlik, seminer, meetup, workshop gibi 
 
 - MaviDurak-IO üyelerinden topluluk etkinliklerine katılım beklenmektedir.
 
-- Dileyen katılımcılar aktif olarak da topluluk faaliyetlerinde görev alabilirler.
+- Dileyen katılımcılar aktif olarak topluluk faaliyetlerinde de görev alabilirler.
 
 Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 
@@ -79,7 +79,7 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 
 - Genellikle dönemin ilk haftalık toplantısında topluluk içinde görev değişimi yapmak için tüm görevler, bunların sorumlulukları ve oluşturduğu iş yükü hakkında konuşulur sonrasında varsa sorular cevaplanır ve görevli seçimi yapılır.
 
-- Topluluk Başkanı seçimi yeni başkanın yol haritası oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz dönemi sonunda gizli oylama açık sayım yöntemi ile yapılır.
+- Topluluk Başkanı seçimi yeni başkanın yol haritası oluşturabilmesine zaman vermek amacıyla üniversitelerin bahar ve güz döneminin sonunda(14. hafta) gizli oylama açık sayım yöntemi ile yapılır.
 
 - Toplulukta en az 8(sekiz) haftadır bulunan ve aktif üye olan herkes başkan adayı olabilir.
 
@@ -157,7 +157,7 @@ Aşağıdaki kanallar üzerinden topluluğa ulaşabilirsiniz;
 - Mentorluk ekibi kendi içinde topluluk işleyiş ve kurallarına karşı gelmeden topluluğun geri kalanından tarih ve iç işleyiş konularında bağımsız karar alma yetkisine sahiptir.
   + Mentorluk etkinliklerinin tarihi, projenin başlangıç ve bitiş tarihi, mentorluk işleyişi konularında tüm ekip birlikte karar alır.
 
-  + Yol haritası öğrencilere de danışarak eğitmenler tarafından kararlaştırılır.
+  + Yol haritası öğrencilere de danışılarak eğitmenler tarafından kararlaştırılır.
 
   + Mazeretsiz olarak kurallara uymayan veya verilen görevleri yapmayan kişiler eğitmenlerin kararı ile ekiple ilişiği kesilir.
 + Eğitmenler ve öğrenciler mazeretsiz bir şekilde arka arkaya en fazla 3(üç), toplamda ise en fazla 5(beş) hafta devamsızlık yapabilir.Mazeretsiz olarak bu süreyi aşan kişilerin mentorluk ile ilişkileri kesilir.
